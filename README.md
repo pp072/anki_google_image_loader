@@ -1,3 +1,3 @@
 # anki_google_image_loader
 
-it is a plugin for Anki for adding image to word from Google 
+This is a plugin for dding an image from Google to a word card in Anki
